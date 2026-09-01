@@ -187,12 +187,9 @@ export default function LandingPage() {
       <div className="absolute inset-0 bg-slate-50/85 backdrop-blur-[2px] z-0 pointer-events-none" />
 
       <header className="mx-auto max-w-7xl w-[92%] sm:w-[95%] mt-4 sticky top-4 z-50 bg-white/70 backdrop-blur-xl border border-white/40 rounded-2xl sm:rounded-full px-6 h-16 flex items-center justify-between shadow-lg shadow-emerald-950/5 relative z-50">
-        <Link to="/" className="flex items-center space-x-2 no-underline cursor-pointer group">
-          <div className="bg-emerald-500 p-1.5 rounded-xl shadow-md shadow-emerald-200 group-hover:scale-105 transition-transform">
-            <Sprout className="w-5 h-5 text-white" />
-          </div>
-          <span className="font-black text-2xl text-emerald-600 tracking-tight">
-            FarmGo
+        <Link to="/" className="flex items-center no-underline cursor-pointer">
+          <span className="text-3xl font-black tracking-tighter">
+            <span className="text-emerald-500 font-black">farm</span><span className="text-slate-900 font-black">Go</span>
           </span>
         </Link>
         <div className="flex items-center space-x-3">
@@ -361,14 +358,9 @@ export default function LandingPage() {
             <h2 className="text-2xl font-black text-slate-900 tracking-tight">{t.leadershipTitle}</h2>
             <p className="text-sm text-slate-500 mt-2">{t.leadershipSub}</p>
             <div className="flex flex-col items-center space-y-2.5 mt-5 select-none">
-              <div className="flex items-center space-x-2">
-                <div className="bg-emerald-500 p-2 rounded-2xl shadow-md shadow-emerald-200">
-                  <Sprout className="w-8 h-8 text-white" />
-                </div>
-                <span className="text-4xl font-black tracking-tight text-emerald-600">
-                  FarmGo
-                </span>
-              </div>
+              <span className="text-4xl font-black tracking-tighter text-slate-900 leading-none">
+                <span className="text-emerald-500 font-black">farm</span><span className="text-slate-900 font-black">Go</span>
+              </span>
               <span className="text-[11px] sm:text-xs font-black uppercase tracking-widest text-emerald-600 bg-white border border-slate-200/80 px-6 py-2 rounded-full shadow-sm">
                 2026 Agriculture Logistic Startup
               </span>
@@ -405,14 +397,9 @@ export default function LandingPage() {
       <footer className="bg-white/95 backdrop-blur-md border-t border-slate-100 py-6 text-xs text-slate-400 relative z-10 mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center space-x-3">
-            <div className="flex items-center space-x-2">
-              <div className="bg-emerald-500 p-1 rounded-lg shadow-sm shadow-emerald-200">
-                <Sprout className="w-4 h-4 text-white" />
-              </div>
-              <span className="text-xl font-black tracking-tight text-emerald-600">
-                FarmGo
-              </span>
-            </div>
+            <span className="text-xl font-black tracking-tighter">
+              <span className="text-emerald-500 font-black">farm</span><span className="text-slate-900 font-black">Go</span>
+            </span>
             <span className="text-slate-300">|</span>
             <span className="text-slate-500 font-medium">
               {isTamil ? "தமிழ்நாடு விவசாய விநியோகச் சங்கிலி" : "Tamil Nadu Agricultural Supply Chain"}

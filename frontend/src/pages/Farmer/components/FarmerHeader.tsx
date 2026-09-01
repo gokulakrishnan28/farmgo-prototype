@@ -42,12 +42,9 @@ export default function FarmerHeader({
         </div>
 
         {/* Center: Logo */}
-        <div className="flex items-center space-x-2">
-          <div className="bg-emerald-500 p-1.5 rounded-xl shadow-md shadow-emerald-200">
-            <Sprout className="w-5 h-5 text-white" />
-          </div>
-          <span className="font-black text-2xl text-emerald-600 tracking-tight">
-            FarmGo
+        <div className="flex items-center space-x-1 cursor-pointer" onClick={() => window.location.href = '/'}>
+          <span className="font-black text-2xl tracking-tighter">
+            <span className="text-emerald-500 font-black">farm</span><span className="text-slate-900 font-black">Go</span>
           </span>
         </div>
 
