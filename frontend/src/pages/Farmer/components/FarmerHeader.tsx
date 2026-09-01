@@ -43,10 +43,10 @@ export default function FarmerHeader({
 
         {/* Center: Logo */}
         <div className="flex items-center space-x-2">
-          <div className="bg-gradient-to-br from-emerald-500 to-green-600 p-1.5 rounded-xl shadow-md shadow-emerald-200">
+          <div className="bg-emerald-500 p-1.5 rounded-xl shadow-md shadow-emerald-200">
             <Sprout className="w-5 h-5 text-white" />
           </div>
-          <span className="font-black text-lg bg-gradient-to-r from-emerald-700 to-green-600 bg-clip-text text-transparent">
+          <span className="font-black text-2xl text-emerald-600 tracking-tight">
             FarmGo
           </span>
         </div>

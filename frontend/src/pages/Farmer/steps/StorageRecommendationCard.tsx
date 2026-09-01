@@ -75,9 +75,9 @@ export default function StorageRecommendationCard({ lang, cropName, distanceKm, 
             {t("storage.why")}
           </h4>
           <p className="text-sm font-medium text-slate-700 leading-relaxed">
-            {rec.type === "Cold" && `Your selected crop (${cropName}) is temperature-sensitive and the estimated journey (${distanceKm} km) is long enough to require active cooling to preserve quality.`}
-            {rec.type === "Dry" && `Your selected crop (${cropName}) requires a moisture-free environment to prevent spoilage during the ${distanceKm} km journey.`}
-            {rec.type === "Normal" && `Your selected crop (${cropName}) is robust and normal covered transport is perfectly suitable for this ${distanceKm} km journey.`}
+            {rec.type === "Cold" && t("storage.why_cold").replace("{crop}", cropName).replace("{distance}", distanceKm.toString())}
+            {rec.type === "Dry" && t("storage.why_dry").replace("{crop}", cropName).replace("{distance}", distanceKm.toString())}
+            {rec.type === "Normal" && t("storage.why_normal").replace("{crop}", cropName).replace("{distance}", distanceKm.toString())}
           </p>
         </div>
 

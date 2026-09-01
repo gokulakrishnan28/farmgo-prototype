@@ -103,6 +103,9 @@ export const farmerT: Record<LangCode, Record<string, string>> = {
     "storage.cold_desc": "Temperature-controlled for perishable crops",
     "storage.recommended": "Recommended",
     "storage.why": "Why?",
+    "storage.why_cold": "Your selected crop ({crop}) is temperature-sensitive and the estimated journey ({distance} km) is long enough to require active cooling to preserve quality.",
+    "storage.why_dry": "Your selected crop ({crop}) requires a moisture-free environment to prevent spoilage during the {distance} km journey.",
+    "storage.why_normal": "Your selected crop ({crop}) is robust and normal covered transport is perfectly suitable for this {distance} km journey.",
     "storage.continue": "Find Best Trucks",
 
     // Step 7 — AI-Matched Trucks
@@ -290,6 +293,9 @@ export const farmerT: Record<LangCode, Record<string, string>> = {
     "storage.cold_desc": "அழுகக்கூடிய பயிர்களுக்கு வெப்பநிலை கட்டுப்பாடு",
     "storage.recommended": "பரிந்துரைக்கப்படுகிறது",
     "storage.why": "ஏன்?",
+    "storage.why_cold": "நீங்கள் தேர்ந்தெடுத்த பயிர் ({crop}) வெப்பநிலைக்கு உணர்திறன் கொண்டது, மேலும் மதிப்பிடப்பட்ட பயணம் ({distance} கிமீ) தரம் கெடாமல் இருக்க குளிரூட்டல் தேவைப்படும் அளவுக்கு நீளமானது.",
+    "storage.why_dry": "நீங்கள் தேர்ந்தெடுத்த பயிர் ({crop}) கெட்டுப்போவதைத் தடுக்க, {distance} கிமீ பயணத்தின் போது ஈரப்பதம் இல்லாத சூழல் தேவை.",
+    "storage.why_normal": "நீங்கள் தேர்ந்தெடுத்த பயிர் ({crop}) வலுவானது மற்றும் இந்த {distance} கிமீ பயணத்திற்கு சாதாரண மூடப்பட்ட போக்குவரத்து மிகவும் பொருத்தமானது.",
     "storage.continue": "சிறந்த டிரக்குகளைக் கண்டறிக",
 
     "trucks.title": "பரிந்துரைக்கப்பட்ட டிரக்குகள்",
@@ -467,6 +473,9 @@ export const farmerT: Record<LangCode, Record<string, string>> = {
     "storage.cold_desc": "जल्दी खराब होने वाली फसलों के लिए तापमान नियंत्रण",
     "storage.recommended": "अनुशंसित",
     "storage.why": "क्यों?",
+    "storage.why_cold": "आपकी चयनित फसल ({crop}) तापमान के प्रति संवेदनशील है और अनुमानित यात्रा ({distance} किमी) गुणवत्ता बनाए रखने के लिए सक्रिय शीतलन की आवश्यकता के लिए काफी लंबी है।",
+    "storage.why_dry": "आपकी चयनित फसल ({crop}) को {distance} किमी की यात्रा के दौरान खराब होने से बचाने के लिए नमी-मुक्त वातावरण की आवश्यकता है।",
+    "storage.why_normal": "आपकी चयनित फसल ({crop}) मजबूत है और इस {distance} किमी की यात्रा के लिए सामान्य ढका हुआ परिवहन पूरी तरह से उपयुक्त है।",
     "storage.continue": "सबसे अच्छे ट्रक खोजें",
 
     "trucks.title": "अनुशंसित ट्रक",
@@ -644,6 +653,9 @@ export const farmerT: Record<LangCode, Record<string, string>> = {
     "storage.cold_desc": "नाशवंत पिकांसाठी तापमान नियंत्रण",
     "storage.recommended": "शिफारस",
     "storage.why": "का?",
+    "storage.why_cold": "तुमचे निवडलेले पीक ({crop}) तापमानास संवेदनशील आहे आणि अंदाजे प्रवास ({distance} किमी) गुणवत्ता टिकवून ठेवण्यासाठी सक्रिय कूलिंगची आवश्यकता असण्याइतका लांब आहे.",
+    "storage.why_dry": "तुमचे निवडलेले पीक ({crop}) खराब होण्यापासून वाचवण्यासाठी {distance} किमी प्रवासादरम्यान ओलावा-मुक्त वातावरणाची आवश्यकता आहे.",
+    "storage.why_normal": "तुमचे निवडलेले पीक ({crop}) मजबूत आहे आणि या {distance} किमी प्रवासासाठी सामान्य झाकलेली वाहतूक पूर्णपणे योग्य आहे.",
     "storage.continue": "सर्वोत्तम ट्रक शोधा",
 
     "trucks.title": "शिफारस केलेले ट्रक",
