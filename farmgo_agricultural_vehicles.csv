@@ -1,0 +1,11 @@
+vehicle_name,vehicle_type,category,payload_capacity_range,common_agricultural_use,cargo_type,storage_type,temperature_control,typical_operating_environment,key_features
+Tata Ace Gold,Mini Truck,Mini Commercial,500-750 kg,Local farm transport,"Vegetables, fruits, fertilizer, seeds",Dry/Normal,No,"Village roads, farms, local markets","Compact, fuel efficient, open cargo bed"
+Mahindra Jeeto,Cargo Minivan,Mini Commercial,600-700 kg,Small farm deliveries,"Vegetables, flowers, milk",Dry/Normal,No,"Rural roads, collection centers","Compact size, low operating cost"
+Maruti Suzuki Super Carry,Mini Truck,Mini Commercial,740 kg,Produce delivery,"Vegetables, fruits, dairy",Dry/Normal,No,Village and town roads,"Wide loading deck, reliable engine"
+Tata Intra V30,Pickup Truck,Light Commercial,1300-1500 kg,Regional crop transport,"Bananas, tomatoes, onions",Normal,No,Markets and warehouses,"High payload, enclosed or open body"
+Ashok Leyland Dost+,Pickup Truck,Light Commercial,1500 kg,Farm logistics,Mixed produce,Normal,No,"Farms, highways",Container or open body
+Tata 407 Gold,Truck,LCV,2-2.5 tons,Regional logistics,"Vegetables, grains",Normal,Optional,"Warehouses, highways",Popular agricultural transport vehicle
+Eicher Pro 2049,Truck,MCV,5 tons,Bulk farm transport,"Fruits, vegetables",Normal,Optional,Intercity routes,Large cargo volume
+BharatBenz Reefer,Refrigerated Truck,MCV,6 tons,Cold-chain transport,"Flowers, dairy, leafy vegetables",Cold,Yes,"Cold storage, highways","Insulated body, temperature monitoring"
+Tata Ultra Reefer,Refrigerated Truck,HCV,9 tons,Long-distance cold chain,"Apples, grapes, dairy",Cold,Yes,National highways,"GPS, humidity and temperature control"
+Ashok Leyland 2820,Heavy Truck,HCV,16 tons,Bulk commodity transport,"Rice, wheat, maize",Dry,No,"Highways, mandis",Multi-axle heavy-duty container

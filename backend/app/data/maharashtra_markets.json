@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "note": "DEMO DATA — For SIH 2026 presentation only. NOT real government data.",
+    "source": "demo",
+    "state": "Maharashtra",
+    "last_updated": "2026-08-28"
+  },
+  "markets": [
+    {
+      "id": "mh-nashik-apmc",
+      "market_name": "Nashik APMC",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "latitude": 19.9975,
+      "longitude": 73.7898,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-pune-apmc",
+      "market_name": "Pune APMC (Market Yard)",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "latitude": 18.5204,
+      "longitude": 73.8567,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-mumbai-vashi-apmc",
+      "market_name": "Navi Mumbai APMC (Vashi)",
+      "state": "Maharashtra",
+      "district": "Thane",
+      "latitude": 19.0760,
+      "longitude": 73.0014,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-aurangabad-apmc",
+      "market_name": "Aurangabad APMC",
+      "state": "Maharashtra",
+      "district": "Aurangabad",
+      "latitude": 19.8762,
+      "longitude": 75.3433,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-solapur-apmc",
+      "market_name": "Solapur APMC",
+      "state": "Maharashtra",
+      "district": "Solapur",
+      "latitude": 17.6599,
+      "longitude": 75.9064,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-kolhapur-apmc",
+      "market_name": "Kolhapur APMC",
+      "state": "Maharashtra",
+      "district": "Kolhapur",
+      "latitude": 16.7050,
+      "longitude": 74.2433,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-ahmednagar-apmc",
+      "market_name": "Ahmednagar APMC",
+      "state": "Maharashtra",
+      "district": "Ahmednagar",
+      "latitude": 19.0948,
+      "longitude": 74.7480,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-lasalgaon-apmc",
+      "market_name": "Lasalgaon APMC",
+      "state": "Maharashtra",
+      "district": "Nashik",
+      "latitude": 20.1189,
+      "longitude": 74.0153,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-sangli-apmc",
+      "market_name": "Sangli APMC",
+      "state": "Maharashtra",
+      "district": "Sangli",
+      "latitude": 16.8524,
+      "longitude": 74.5815,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-nagpur-apmc",
+      "market_name": "Nagpur APMC",
+      "state": "Maharashtra",
+      "district": "Nagpur",
+      "latitude": 21.1458,
+      "longitude": 79.0882,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-satara-apmc",
+      "market_name": "Satara APMC",
+      "state": "Maharashtra",
+      "district": "Satara",
+      "latitude": 17.6805,
+      "longitude": 74.0183,
+      "market_type": "APMC",
+      "source": "demo"
+    },
+    {
+      "id": "mh-dhule-apmc",
+      "market_name": "Dhule APMC",
+      "state": "Maharashtra",
+      "district": "Dhule",
+      "latitude": 20.9042,
+      "longitude": 74.7749,
+      "market_type": "APMC",
+      "source": "demo"
+    }
+  ]
+}

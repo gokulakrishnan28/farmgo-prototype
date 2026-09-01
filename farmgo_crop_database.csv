@@ -1,0 +1,31 @@
+crop name,temperature,vehicle,how many days it can be,humidity,Storage
+Tomato,10-13°C,Normal/Reefer Truck,Jul-14,85-95%,Normal
+Onion,0-2°C,Ventilated Truck,30-180,65-70%,Dry
+Potato,7-10°C,Normal Truck,60-180,90-95%,Dry
+Carrot,0-1°C,Reefer Truck,30-180,98-100%,Cold
+Brinjal,10-12°C,Normal Truck,07-Oct,90-95%,Normal
+Ladyfinger (Okra),7-10°C,Normal Truck,07-Oct,90-95%,Normal
+Spinach,0-5°C,Reefer Truck,05-Oct,95-100%,Cold
+Drumstick,8-10°C,Normal Truck,05-Oct,90-95%,Normal
+Cucumber,10-12°C,Normal Truck,Oct-14,90-95%,Normal
+Mango,13°C,Reefer Truck,14-21,85-90%,Normal
+Banana,13-14°C,Reefer Truck,14-28,90-95%,Normal
+Coconut,0-2°C,Normal Truck,60-180,80-85%,Dry
+Grapes,0-1°C,Reefer Truck,30-90,90-95%,Cold
+Papaya,10-13°C,Reefer Truck,14-21,90-95%,Normal
+Guava,8-10°C,Reefer Truck,14-21,90-95%,Normal
+Jackfruit,11-13°C,Normal Truck,14-21,85-90%,Normal
+Pomegranate,5-7°C,Reefer Truck,30-60,90-95%,Cold
+Watermelon,10-15°C,Normal Truck,Oct-14,85-90%,Normal
+Turmeric,12-15°C,Normal Truck,90-180,65-75%,Dry
+Chilli,7-10°C,Normal Truck,14-21,90-95%,Normal
+Ginger,12-14°C,Normal Truck,60-120,65-75%,Dry
+Garlic,0-2°C,Ventilated Truck,90-180,60-70%,Dry
+Jasmine,2-5°C,Reefer Truck,02-May,90-95%,Cold
+Rose,2-5°C,Reefer Truck,05-Oct,90-95%,Cold
+Marigold,18-22°C,Medium Truck (Eicher 19ft),03-May,85-90%,Normal
+Sugarcane,18-25°C,Medium Truck,03-Jul,70-80%,Normal
+Cotton,20-25°C,Container Truck,180-365,55-65%,Dry
+Groundnut,8-10°C,Container Truck,180-365,60-70%,Dry
+Cashew,5-10°C,Container Truck,180-365,60-70%,Dry
+Other Cargo,Depends,Truck,Depends,Depends,Normal

@@ -1,0 +1,20 @@
+# Python ignores
+backend/venv/
+backend/.venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/alembic/versions/*.pyc
+
+# Node ignores
+**/node_modules/
+**/dist/
+frontend/.env.local
+
+# Agent/Temp ignores
+.agents/
+.gemini/
+.env
+**/find_logo.py
+**/find_map.py
+**/find_carriers.py
