@@ -1,4 +1,4 @@
-🌾 FarmGo — AI-Powered Agricultural Market & Logistics Platform
+🌾 FarmGo — Connects Farmer ,Buyer,Transporter,FPO with AI
 
 «Smart India Hackathon 2026 | Problem Statement: SIH26132
 Strengthening Market Linkages and Price Discovery for Farmers»
